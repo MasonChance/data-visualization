@@ -5,3 +5,5 @@ The purpose of this project is to analyze data from a chosen data set and find a
 We will be using [Google-Play store data](#) to see if we can identify a potentially underserved market or a market suffering from oversaturation. 
 We will be using [Nvidia timeseries day trade data](#) to identify potential patterns for portfolio and day trade management
 
+### table of contents
+[First submission, branch: vis-b, PR](https://github.com/MasonChance/data-visualization/pull/1)
